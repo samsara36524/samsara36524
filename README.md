@@ -1,7 +1,7 @@
-## 🦥 `Minimal Mistakes theme customized by choiiis`
+## 🦥 `Win-win ideas for breakthrough`
 
 📎 **블로그 바로 가기**
-[`https://choiiis.github.io/`](https://choiiis.github.io/)
+[`https://samsara36524.github.io/`](https://samsara36524.github.io/)
 
 ---
 
