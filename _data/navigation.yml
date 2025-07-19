@@ -9,13 +9,19 @@ categories:
         url: /categories/categories3/
       - title: "Categories4"
         url: /categories/categories4/
-  - title: "Title2"
+  - title: "Organizational problem solving"
     children:
       - title: "Categories5"
         url: /categories/categories5/
       - title: "Categories6"
         url: /categories/categories6/
-  - title: "Title3"
+  - title: "Solving social problems"
     children:
       - title: "Categories7"
         url: /categories/categories7/
+  - title: "Solving Humanity's Problems"
+    children:
+      - title: "Categories8"
+        url: /categories/categories8/
+
+        
