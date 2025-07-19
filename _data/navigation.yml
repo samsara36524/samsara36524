@@ -7,9 +7,6 @@ categories:
         url: /categories/categories2/
       - title: "Change of Behavior"
         url: /categories/categories3/
-      - title: "Human Relationship"
-        url: /categories/categories4/
-        
   - title: "Solving organizational problems"
     children:
       - title: "Human Relationship"
@@ -18,19 +15,17 @@ categories:
         url: /categories/categories5/
       - title: "Categories6"
         url: /categories/categories6/
-        
   - title: "Solving social problems"
     children:
       - title: "Balanced Development"
         url: /categories/categories7/
       - title: "Generation Conflict"
-        url: /categories/categories8/
-        
+        url: /categories/categories8/ 
   - title: "Solving Humanity's Problems"
     children:
       - title: "Religious Conflict"
         url: /categories/categories9/
       - title: "End of War"
-        url: /categories/categories8/  
+        url: /categories/categories10/  
 
         
