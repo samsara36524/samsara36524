@@ -12,14 +12,6 @@ categories:
         
   - title: "Solving organizational problems"
     children:
-      - title: "Change of Thought"
-        url: /categories/categories1/
-      - title: "Change of speech"
-        url: /categories/categories2/
-      - title: "Change of Behavior"
-        url: /categories/categories3/
-      - title: "Human Relationship"
-        url: /categories/categories4/
       - title: "Human Relationship"
         url: /categories/categories4/
       - title: "Conflict Resolution"
@@ -29,14 +21,6 @@ categories:
         
   - title: "Solving social problems"
     children:
-      - title: "Change of Thought"
-        url: /categories/categories1/
-      - title: "Change of speech"
-        url: /categories/categories2/
-      - title: "Change of Behavior"
-        url: /categories/categories3/
-      - title: "Human Relationship"
-        url: /categories/categories4/
       - title: "Balanced Development"
         url: /categories/categories7/
       - title: "Generation Conflict"
@@ -44,14 +28,6 @@ categories:
         
   - title: "Solving Humanity's Problems"
     children:
-      - title: "Change of Thought"
-        url: /categories/categories1/
-      - title: "Change of speech"
-        url: /categories/categories2/
-      - title: "Change of Behavior"
-        url: /categories/categories3/
-      - title: "Human Relationship"
-        url: /categories/categories4/
       - title: "Religious Conflict"
         url: /categories/categories9/
       - title: "End of War"
