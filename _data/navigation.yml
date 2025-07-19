@@ -1,5 +1,5 @@
 categories:
-  - title: "Solve your own problems"
+  - title: "Solving my problems"
     children:
       - title: "Categories1"
         url: /categories/categories1/
@@ -9,7 +9,7 @@ categories:
         url: /categories/categories3/
       - title: "Categories4"
         url: /categories/categories4/
-  - title: "Organizational problem solving"
+  - title: "Solving organizational problems"
     children:
       - title: "Categories5"
         url: /categories/categories5/
