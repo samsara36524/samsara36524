@@ -1,27 +1,31 @@
 categories:
   - title: "Solving my problems"
     children:
-      - title: "Categories1"
+      - title: "Change of Thought"
         url: /categories/categories1/
-      - title: "Categories2"
+      - title: "Change of speech"
         url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "Change of Behavior"
+        url: /categories/categories3/     
   - title: "Solving organizational problems"
     children:
-      - title: "Categories5"
+      - title: "Human Relationship"
+        url: /categories/categories4/
+      - title: "Conflict Resolution"
         url: /categories/categories5/
       - title: "Categories6"
         url: /categories/categories6/
   - title: "Solving social problems"
     children:
-      - title: "Categories7"
+      - title: "Balanced Development"
         url: /categories/categories7/
+      - title: "Generation Conflict"
+        url: /categories/categories8/  
   - title: "Solving Humanity's Problems"
     children:
-      - title: "Categories8"
-        url: /categories/categories8/
+      - title: "Religious Conflict"
+        url: /categories/categories9/
+      - title: "End of War"
+        url: /categories/categories8/  
 
         
